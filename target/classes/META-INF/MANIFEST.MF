@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Pham Van Luan
+Build-Jdk: 11.0.2
+Implementation-Title: spring-25-4
+Implementation-Version: 1
+Implementation-Vendor-Id: spring-25-4
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://projects.spring.io/spring-boot/spring-25-4/
+Created-By: Maven Integration for Eclipse
+
